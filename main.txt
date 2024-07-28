@@ -1,2 +1,5 @@
 I am sneha.
 I am doing demo in Git.
+I am in a hall.
+This is dummy data.
+This is main file.
